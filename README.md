@@ -3,3 +3,6 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ap7kj/pomovoice)
 
 PomoVoice is the app that will help you be productive. You can use your voice to control your timer.
+
+#Ideas:
+- Probably create GUI application which you able to with your voice to control app.
